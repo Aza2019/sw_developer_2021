@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Berechnung_1, Configuration: Debug Any CPU ------
+1>  Berechnung_1 -> C:\myCode\Repos\sw_developer_2021\src\12102021\Berechnung_1\Berechnung_1\bin\Debug\Berechnung_1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
