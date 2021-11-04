@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleEingaben_GL
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
@@ -15,17 +15,18 @@ namespace ConsoleEingaben_GL
             int alter = 0;
             int geburtsJahr = 0;
 
-            Console.WriteLine("Bitte Name eingeben: ");
+
+            Console.Write("Bitte Name eingeben: ");
             name = Console.ReadLine();
 
-            Console.WriteLine("\nHallo " + name + ", wie geht`s?");
+            Console.WriteLine("\nHallo " + name + ", wie geht's?");
 
-            Console.WriteLine(name + ", bittte gib dein Geburtsjahr ein: ");
+            Console.Write(name + ", bitte gib dein Geburtsjahr ein: ");
             geburtsJahrEingabe = Console.ReadLine();
 
             //Konvertierung Zeichenkette nach int
-
             geburtsJahr = int.Parse(geburtsJahrEingabe);
+
             //Alter vom User berechnen
             alter = DateTime.Now.Year - geburtsJahr;
 

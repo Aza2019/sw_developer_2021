@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E1E29E0E-20ED-44A8-87C5-D2D492BC7761}</ProjectGuid>
+    <ProjectGuid>{B64098F0-1E1E-4220-955D-1772DC72C682}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ConsoleEingaben_GL</RootNamespace>
     <AssemblyName>ConsoleEingaben_GL</AssemblyName>
