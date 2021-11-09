@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOp-GL", "OOp-GL\OOp-GL.csproj", "{A97B6409-D902-4F47-BECD-41D95683BB6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wifi.ConsoleTools", "..\..\20211021\Wifi.Tools.Solution\Wifi.ConsoleTools\Wifi.ConsoleTools.csproj", "{EEC94C61-62A0-47EE-8B4E-13359FC47C9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A97B6409-D902-4F47-BECD-41D95683BB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97B6409-D902-4F47-BECD-41D95683BB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97B6409-D902-4F47-BECD-41D95683BB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97B6409-D902-4F47-BECD-41D95683BB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC94C61-62A0-47EE-8B4E-13359FC47C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC94C61-62A0-47EE-8B4E-13359FC47C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC94C61-62A0-47EE-8B4E-13359FC47C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC94C61-62A0-47EE-8B4E-13359FC47C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E54E601-8244-4C98-A96F-5A80EECBCC88}
+	EndGlobalSection
+EndGlobal
